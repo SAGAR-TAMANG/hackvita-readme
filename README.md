@@ -146,8 +146,7 @@ Don't forget to give the project a star! Thank you!
 ## Contact
 
 * Sagar Tamang - cs22bcagn033@kazirangauniversity.in
-
-Project Link: [https://github.com/ppriyankuu/hackVita-2.0](https://github.com/ppriyankuu/hackVita-2.0)
+* Project Link: [https://github.com/ppriyankuu/hackVita-2.0](https://github.com/ppriyankuu/hackVita-2.0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
