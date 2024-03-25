@@ -58,8 +58,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screenshot][product-screenshot]](#about-the-project)
-
 Feynman Pi is a dashboard application designed to connect farmers with the market by providing real-time prices (current, average, all-time lowest, all-time highest) of different items/goods they produce.
 
 Contributions are welcome! Please see the [Contributing](#contributing) section to get started.
@@ -151,7 +149,7 @@ Project Link: [https://github.com/ppriyankuu/hackVita-2.0](https://github.com/pp
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [ChatGPT](https://chat.openai.com/) for providing guidance.
+* To all our team members of Feynman Pi, for working so hard on this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
