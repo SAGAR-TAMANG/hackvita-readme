@@ -6,7 +6,7 @@ A dashboard application that would help farmers connect to the market, with pric
 ## Working
 - Buyers push their demand to the market : item they need, the weight, and the max price they can afford.
 - The backend route handles the request, and calculates the new current, average, lowest, and highest prices accordingly.
-- One backend route send the all the information, including the item, and its different prices.
+- One backend route send the all the information, including the item and its different prices.
 - The frontend receives the response and display it to the famers.
 
 
