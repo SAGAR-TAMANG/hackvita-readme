@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ppriyankuu/hackVita-2.0">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.postimg.cc/5ywwyskR/Logo2-B-W-2.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Feynman Pi</h3>
@@ -28,6 +28,7 @@
 
 ## Screenshots
 
+<img src="https://i.postimg.cc/Z5z8kz0z/Screenshot-2024-03-25-181153.png">
 <img src="https://i.postimg.cc/HkBzsjxt/93a622b9-601d-4a70-a7e8-6a4db056ee53.jpg">
 <img src="https://i.postimg.cc/WzQXMyrb/Screenshot-20240325-162859.png">
 
@@ -50,6 +51,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#about-us">About Us</a></li>
+    <li><a href="#presentation">Presentation</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -128,19 +130,24 @@ To run this code locally, follow these steps.
 
 We are a team comprising of **The Assam Kaziranga University** and **Jorhat Institute of Science & Technology**.
 
-* Sagar Tamang
-* Priyanku Gogoi
-* Jyotishman Pathak
-* Amit Karmakar
+- [@Sagar Tamang](https://www.github.com/SAGAR-TAMANG)
+- [@Priyanku Gogoi](https://github.com/ppriyankuu)
+- [@Jyotishman Pathak](https://www.github.com/Jyoti1368)
+- [@Amit Karmakar](https://github.com/amitkarmakar)
 
 Don't forget to give the project a star! Thank you!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- PRESENTATION -->
+## Presentation
+
+[See the full presentation here](https://www.canva.com/design/DAGAN2E04Co/pA6n-gXue7A72xJd435Akw/edit?utm_content=DAGAN2E04Co&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <!-- CONTACT -->
 ## Contact
 
-Sagar Tamang - cs22bcagn033@kazirangauniversity.in
+* Sagar Tamang - cs22bcagn033@kazirangauniversity.in
 
 Project Link: [https://github.com/ppriyankuu/hackVita-2.0](https://github.com/ppriyankuu/hackVita-2.0)
 
