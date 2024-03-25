@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ppriyankuu/hackVita-2.0">
-    <img src="https://i.postimg.cc/5ywwyskR/Logo2-B-W-2.png" alt="Logo" width="80" height="80">
+    <img src="https://i.postimg.cc/5ywwyskR/Logo2-B-W-2.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">Feynman Pi</h3>
@@ -28,7 +28,6 @@
 
 ## Screenshots
 
-<img src="https://i.postimg.cc/Z5z8kz0z/Screenshot-2024-03-25-181153.png">
 <img src="https://i.postimg.cc/HkBzsjxt/93a622b9-601d-4a70-a7e8-6a4db056ee53.jpg">
 <img src="https://i.postimg.cc/WzQXMyrb/Screenshot-20240325-162859.png">
 
@@ -61,8 +60,6 @@
 ## About The Project
 
 Feynman Pi is a dashboard application designed to connect farmers with the market by providing real-time prices (current, average, all-time lowest, all-time highest) of different items/goods they produce.
-
-Contributions are welcome! Please see the [Contributing](#contributing) section to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,6 +139,7 @@ Don't forget to give the project a star! Thank you!
 <!-- PRESENTATION -->
 ## Presentation
 
+<img src="https://i.postimg.cc/Z5z8kz0z/Screenshot-2024-03-25-181153.png">
 [See the full presentation here](https://www.canva.com/design/DAGAN2E04Co/pA6n-gXue7A72xJd435Akw/edit?utm_content=DAGAN2E04Co&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <!-- CONTACT -->
