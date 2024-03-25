@@ -31,6 +31,8 @@
 <img src="https://i.postimg.cc/HkBzsjxt/93a622b9-601d-4a70-a7e8-6a4db056ee53.jpg">
 <img src="https://i.postimg.cc/WzQXMyrb/Screenshot-20240325-162859.png">
 
+### Table of Contents
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -140,6 +142,7 @@ Don't forget to give the project a star! Thank you!
 ## Presentation
 
 <img src="https://i.postimg.cc/Z5z8kz0z/Screenshot-2024-03-25-181153.png">
+
 [See the full presentation here](https://www.canva.com/design/DAGAN2E04Co/pA6n-gXue7A72xJd435Akw/edit?utm_content=DAGAN2E04Co&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <!-- CONTACT -->
