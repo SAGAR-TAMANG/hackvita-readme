@@ -1,7 +1,7 @@
 
 # Feynman Pi
 
-A dashboard application that would help the farmers connect to the market, with prices (current, average, all time lowest, all time highest) of different item/goods they produce.
+A dashboard application that would help farmers connect to the market, with prices (current, average, all time lowest, all time highest) of different item/goods they produce.
 
 ## Working
 - Buyers push their demand to the market : item they need, the weight, and the max price they can afford.
