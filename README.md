@@ -34,7 +34,7 @@ A dashboard application that would help the farmers to connect to the market, wi
 - Express
 - PostgreSql
 - Prisma (ORM)
-
+- (all written in TypeScript)
 
 
 ## Authors
